@@ -65,11 +65,17 @@ The findings highlight two areas requiring closer operational attention: invento
 **Performance Overview**
 Revenue, transactions, gross profit, and return rate with year-over-year comparisons; top products and categories by revenue and margin; and revenue contribution by sales channel.
 
+![Dashboard Preview](https://github.com/Biswas014/Global-E-commerce-Sales-Inventory-Returns-Analysis/blob/main/Snapshots/Performance%20Overview.JPG)
+
 **Customer Behavior**
 Average order value and return rates across premium and non-premium customers; discount levels versus sales volume and margin; revenue by customer location; and payment-type contribution to revenue.
 
+![Dashboard Preview](https://github.com/Biswas014/Global-E-commerce-Sales-Inventory-Returns-Analysis/blob/main/Snapshots/Customer%20Behavior.JPG)
+
 **Inventory & Returns Risk**
 Return reasons by product category; returned products resulting in write-offs; products at or below reorder thresholds; and products and warehouses exposed to stockout risk based on remaining stock versus replenishment lead time.
+
+![Dashboard Preview](https://github.com/Biswas014/Global-E-commerce-Sales-Inventory-Returns-Analysis/blob/main/Snapshots/Inventory%20%26%20Returns%20Risk.JPG)
 
 ## Sample SQL: Creating structured views
 
