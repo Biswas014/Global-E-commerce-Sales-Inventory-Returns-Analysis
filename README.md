@@ -62,7 +62,7 @@ A global e-commerce retail dataset containing approximately 100,000 transactions
 **Power BI, Dashboard Design**: Designed a three-page report with consistent navigation across sales, customer, inventory, and returns analysis.
 
 
-##Dashboard Structure
+## Dashboard Structure
 
 **Performance Overview**
 Revenue, transactions, gross profit, and return rate with year-over-year comparisons; top products and categories by revenue and margin; and revenue contribution by sales channel.
