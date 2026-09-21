@@ -4,22 +4,7 @@ An interactive power bi report analyzing yearly sales, inventory, and returns pe
 ## Live Report
 [Embedded Link](https://app.powerbi.com/reportEmbed?reportId=21d088aa-5d66-4d42-8002-58cc0931f12e&autoAuth=true&ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f)
 
-## Tech Stack
-I have used these tools or technologies to accomplish the report
-
-PostgreSQL: Data import, validation, and exploratory analysis 
-
-Power Bi Desktop: Data modelling, visualization and dashboard development
-
-Dax: Aggregation, Time Intelligence Measures and KPI Calculations
-
-## Data Source
-[Kaggle](https://www.kaggle.com/datasets/parsakh/global-e-commerce-and-supply-chain-database?select=transactions.csv)
-
-A global e-commerce retail dataset containing approximately 100,000 transactions from 2022 to 2024, sourced from Kaggle The dataset includes customer demographics, products information, inventory levels, returns, transaction details, shipping locations, and order status.
-
-## Highlights
-### Business Problem
+## Business Problem
 The business operates across multiple products, customer segments, and warehouses, making it difficult to identify where performance is strong, where operational risks exist, and which areas require closer investigation.
 
 Business Questions Answered
@@ -36,7 +21,7 @@ Business Questions Answered
 
 •	How does discounting affect sales volume and gross margin?
 
-### Key findings
+## Key findings
 💡Generated approximately $53M in revenue across 2022-2024, with 2024 contributing $17M, a 0.3% increase from 2023.
 
 💡Return rate remained largely stable year over year, declining from 7.10% to 7.09%.
@@ -53,6 +38,20 @@ Business Questions Answered
 
 ## Business Impact
 The findings highlight two areas requiring closer operational attention: inventory availability and product returns. Monitoring replenishment lead times alongside supplier performance can help reduce potential stockout exposure, while further investigation into product quality, fulfillment, and listing accuracy can help identify opportunities to address recurring return issues.
+
+## Tech Stack
+I have used these tools or technologies to accomplish the report
+
+PostgreSQL: Data import, validation, and exploratory analysis 
+
+Power Bi Desktop: Data modelling, visualization and dashboard development
+
+Dax: Aggregation, Time Intelligence Measures and KPI Calculations
+
+## Data Source
+[Kaggle](https://www.kaggle.com/datasets/parsakh/global-e-commerce-and-supply-chain-database?select=transactions.csv)
+
+A global e-commerce retail dataset containing approximately 100,000 transactions from 2022 to 2024, sourced from Kaggle The dataset includes customer demographics, products information, inventory levels, returns, transaction details, shipping locations, and order status.
 
 ## Project Workflow
 
