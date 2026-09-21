@@ -1,6 +1,9 @@
 # Global-E-commerce-Sales-Inventory-Returns-Analysis
 An interactive power bi report analyzing yearly sales, inventory, and returns performance to identify revenue drivers, customer purchasing patterns, return trends, and potential inventory stockout risks.
 
+## Live Report
+[Embedded Link](https://app.powerbi.com/reportEmbed?reportId=21d088aa-5d66-4d42-8002-58cc0931f12e&autoAuth=true&ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f)
+
 ## Tech Stack
 I have used these tools or technologies to accomplish the report
 
